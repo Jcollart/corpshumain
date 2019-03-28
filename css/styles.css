@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Arvo', serif;
-    background-color: rgb(201, 200, 200);
+    background-color: #EDEDED;
     text-align: center;
 }
 
@@ -76,8 +76,8 @@ cercle:hover {
 
 #epaule {
     position: relative;
-    left : 150px;
-    top: 120px;	
+    left : 160px;
+    top: 130px;	
 	
 }
 
@@ -89,7 +89,7 @@ cercle:hover {
 
 #genoux {
     position: relative;
-    left : 170px;
+    left : 180px;
     top: 340px;	
 }
  
@@ -102,7 +102,7 @@ cercle:hover {
 
 #poignet {
     position: relative;
-    left : 65px;
+    left : 85px;
     top: 240px;	
 }
 
@@ -114,7 +114,7 @@ cercle:hover {
 
 #cheville {
     position: relative;
-    left : 60px;
+    left : 80px;
     top: 400px;	
 }
 
